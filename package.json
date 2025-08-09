@@ -1,0 +1,9 @@
+{
+  "name": "myfirstproject_",
+  "private": true,
+  "version": "0.0.1",
+  "scripts": {
+    "build": "echo Building myfirstproject_ && node -e \"console.log('build ok for myfirstproject_')\"",
+    "deploy": "pwsh ./deploy.ps1"
+  }
+}
